@@ -17,6 +17,8 @@ Perfect for:
 * Reducing grind during repeated runs
 * Accessibility-focused playstyles
 
+[![Activate Now](../btn.png)](https://abyssus-trainers.github.io/.github/)
+
 ---
 
 ## ⚙ Core Trainer Functions
@@ -30,6 +32,7 @@ Each option is modular, hotkey-driven, and safe to toggle mid-session:
 * **Game Speed Control** – Slow the chaos or accelerate farming ⏱
 
 Nothing is forced. Everything is optional.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e43dd5e-18c2-483b-af4c-7fec6cec9994" />
 
 ---
 
@@ -80,6 +83,7 @@ flowchart LR
     D --> E[Live Gameplay Control]
     E --> F[Hotkey Toggle Loop]
 ```
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/83351ddc-5e10-494f-9abe-78ba57f37bb0" />
 
 The trainer works in real time, adjusting values without forcing reloads.
 
